@@ -1,1 +1,1 @@
-# Hyperspectral-Image-Classification
+## Project : Hyperspectral Image Classification
