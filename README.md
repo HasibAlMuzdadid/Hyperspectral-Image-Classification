@@ -16,6 +16,8 @@ Email: muzdadid@gmail.com
 ## Project Description :
 This repository contains comparative analysis of different feature extraction techniques for Hyperspectral Image classification. Till now **Principal Component Analysis (PCA)** and **Segmented Principal Component Analysis (SPCA)** have been used for feature extraction and **Support Vector Machine (SVM)** has been used as classifier. 
 
+**Dataset used :** Indian Pines Dataset , Pavia University Dataset.  </br>
+
 **Language used :** Python </br>
 **Development Tools :** [Jupyter Notebook](https://jupyter.org/)</br>
 
