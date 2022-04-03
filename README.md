@@ -11,3 +11,12 @@ Hasib Al Muzdadid</br>
 Department of Computer Science & Engineering, </br>
 Rajshahi University of Engineering & Technology (RUET) </br>
 Email: muzdadid@gmail.com
+
+
+## Project Description :
+This repository contains comparative analysis of different feature extraction techniques for Hyperspecral Image classification.
+
+**Language used :** Python </br>
+**Development Tools :** [Jupyter Notebook](https://jupyter.org/)</br>
+
+ 
