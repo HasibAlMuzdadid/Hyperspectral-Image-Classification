@@ -10,7 +10,7 @@
 Hasib Al Muzdadid</br>
 [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), </br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/) </br>
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/hasibalmuzdadid
 Email: muzdadid@gmail.com
 
 
